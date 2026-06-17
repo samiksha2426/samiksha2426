@@ -47,9 +47,9 @@
 
 ## Projects
 
-### Blockchain-Based Certificate Verification System
+### Blockchain-Based Healthcare Management System
 
-Developed a secure certificate verification system using blockchain technology to prevent certificate forgery and enable instant verification of academic credentials. Implemented decentralized storage and verification mechanisms to ensure authenticity and transparency.
+Developed a blockchain-based healthcare management system to securely store and manage patient medical records. The system ensures data integrity, privacy, and transparency by leveraging blockchain technology, allowing authorized healthcare providers to access and verify medical information securely while preventing unauthorized modifications.
 
 ### Crop Yield Prediction
 
